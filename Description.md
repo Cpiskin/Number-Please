@@ -1,6 +1,9 @@
 Importing scanner to get input
 
-Name the class as NumberPlease and after the main method create a scanner object
+Name the class as NumberPlease and after the main method:
+
+- Write the given grid using a 2D array
+- create a scanner object
 
 Use a for loop that will run 4 times because we need 4 sets of input
   In the for loop get the coordinates for the rectangles
