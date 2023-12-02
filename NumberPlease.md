@@ -1,4 +1,3 @@
-# Number-Please
 import java.util.Scanner;
 
 public class NumberPlease {
@@ -29,7 +28,7 @@ public class NumberPlease {
             int y2 = s.nextInt();
 
             int sum = calculateSum(grid, x1, y1, x2, y2);
-            System.out.println("Sum for query " + (q + 1) + ": " + sum);
+            System.out.println(sum);
         }
     }
 
